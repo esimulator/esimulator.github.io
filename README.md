@@ -1,4 +1,4 @@
-##💡 Inspiration
+## 💡 Inspiration
 Many young people dream of seeing themselves as a professional esports player or at least a game streamer. But even in these professions, there is a lot of necessary knowledge and skills that you need to possess. As well as many ambiguous life situations that you can get into.
 
 And I decided to create a simulator that will allow you to go through all this, learn something new and test yourself. I saw the creation of an educational, fun and interactive game about e-sportsman and streamer life as an ideal option.
