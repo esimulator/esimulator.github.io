@@ -3,7 +3,7 @@ Many young people dream of seeing themselves as a professional esports player or
 
 And I decided to create a simulator that will allow you to go through all this, learn something new and test yourself. I saw the creation of an educational, fun and interactive game about e-sportsman and streamer life as an ideal option.
 
-> ####**Play is the highest form of research**
+> #### **Play is the highest form of research**
 > 
 > <cite> Albert Einstein</cite>
 
